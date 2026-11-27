@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**endertyma/endertyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐉 endertyma / experienced coder
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=go,cs,py,java,rust,lua,html,css,js,ts&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tauri,unity,nodejs,react,docker,linux,sqlite,git,githubactions&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=endertyma&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endertyma/endertyma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endertyma/endertyma/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/endertyma/endertyma/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
