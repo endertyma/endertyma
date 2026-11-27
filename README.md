@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 endertyma / experienced coder
+# 🐉 Endertyma / Experienced Coder
 
 <p>
   <img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" alt="Go" title="Go" />
