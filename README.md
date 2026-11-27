@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" alt="Rust" title="Rust" />
-  <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="48" alt="Lua" title="Lua" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
@@ -19,10 +18,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=tauri&theme=dark" width="48" alt="Tauri" title="Tauri" />
   <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="48" alt="Unity" title="Unity" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" title="Linux" />
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" alt="SQLite" title="SQLite" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions" title="GitHub Actions" />
@@ -37,7 +34,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=endertyma&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=endertyma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
 <br/><br/>
 
