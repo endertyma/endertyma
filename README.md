@@ -5,6 +5,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=go&theme=dark" width="48" alt="Go" title="Go" />
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++" title="C++" />
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" alt="Rust" title="Rust" />
